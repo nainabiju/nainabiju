@@ -16,11 +16,12 @@ Welcome to my GitHub profile! 👩‍💻💡
 ### 💻 Tech Stack:
 
 - **Languages:** Bash
-- **DevOps Tools:** Jenkins, Git, Docker, AWS (EC2, S3, Lambda, and more!), Kubernetes
+- **DevOps Tools:** Jenkins, Git,Github, Docker, AWS (EC2, S3, Lambda, and more!), Kubernetes,Azure,Prometheus
 - **Platforms:** Linux. Windows
 
+  ![image](https://github.com/user-attachments/assets/acf037c4-26f9-44fc-ad9e-2637a54f1e49)
+
   
-  ![image](https://github.com/user-attachments/assets/04b5095f-41ab-419e-9f51-9325deb5b0b6)
 
 
 ### 📜 Writing Journey:
